@@ -1,0 +1,33 @@
+git config --global user.name ”nikhil”
+
+git config --global user.email “palath.nikhil@gmail.com”
+ 
+
+
+git config --global http.sslverify "false"
+
+
+
+git config --list
+
+
+
+
+
+git init
+ 
+git add .
+
+git status (for seeing the added file)
+
+git commit -m "what you what to see "
+
+git log (for total information )
+
+git remote add origin https://github.com/nikhilpalath/file name.git
+
+git push origin master
+
+git user name : nikhilpalath
+
+git password : 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
